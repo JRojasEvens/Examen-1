@@ -15,14 +15,17 @@ body{
     }
 
 
-footer{background-color: black;
-color: bisque;
-padding: 1em;
-justify-content: center;
-display: flex;
-}
+
 .btn{
     background: black;
     border-color: aqua;
     
+}
+
+footer{
+    background-color: black;
+color: bisque;
+padding: 1em;
+justify-content: end;
+display: flex;
 }
