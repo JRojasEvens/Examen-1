@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background:gray;
+}
+
+
+.card img{
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+    margin-top: 10px;
+    }
+
+
+footer{background-color: black;
+color: bisque;
+padding: 1em;
+justify-content: center;
+display: flex;
+}
+.btn{
+    background: black;
+    border-color: aqua;
+    
+}
